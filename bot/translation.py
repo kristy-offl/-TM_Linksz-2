@@ -5,18 +5,22 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Powered by:
-     🌀 @colorkannadi_LinkzZ 🌀
+<i>ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ AᴜᴛᴏFɪʟᴛᴇʀ Bᴏᴛ
 
-I'm Just A Advance Auto Filter Bot...😉
-Don't need to add filters by seperately. It's send with the file name.
+Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘʀᴏᴠɪᴅᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs!
 
-For More Details Click Help Button Below...
+🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Deeks_04_8🕶️🕶️
+
+⭕ ♩๏īก ➠ @UM_Requests©™
+
+📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽
+
+
+
+
 </i>"""    
     
     HELP_TEXT = """
-<i>Powered by:
-     🌀 @colorkannadi_LinkzZ 🌀</I>
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
@@ -45,15 +49,16 @@ For More Details Click Help Button Below...
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
+            
+    ⚔️😎 @UNI_MOVIES_BOX [ @Deeks_04_8 ] 💞❤
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> colorkannadi_autofilterv2_bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> UMR GROUP BOTS </code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/karthi_kr_0910">Developer👩🏻‍💻</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Deeks_04_8">DEEKS B GOWDAS 😎</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Powered by: 🌀 @colorkannadi_LinkzZ 🌀 </i>
 """
