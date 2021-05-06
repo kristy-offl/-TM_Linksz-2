@@ -4,16 +4,14 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ AᴜᴛᴏFɪʟᴛᴇʀ Bᴏᴛ
+    START_TEXT = """<b>Hey {}!!
+<i>𝙸'𝚖 𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝙱𝚘𝚝.
 
-Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘʀᴏᴠɪᴅᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs!
+𝐈 𝐖𝐢𝐥𝐥 𝐒𝐞𝐚𝐫𝐜𝐡 𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐏𝐡𝐫𝐚𝐬𝐞 𝐖𝐨𝐫𝐝 𝐚𝐧𝐝 𝐆𝐢𝐯𝐞 𝐌𝐨𝐯𝐢𝐞𝐬 𝐚𝐬 𝐁𝐮𝐭𝐭𝐨𝐧 𝐋𝐢𝐧𝐤.
 
-🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Deeks_04_8🕶️🕶️
+ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ👨🏻‍💻: @karthi_kr_0910
 
-⭕ ♩๏īก ➠ @UM_Requests©™
-
-📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ: 🌀 @colorkannadi_LinkzZ 🌀</b>
 
 
 
@@ -50,15 +48,17 @@ Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘ�
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-    ⚔️😎 @UNI_MOVIES_BOX [ @Deeks_04_8 ] 💞❤
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: 🌀 @colorkannadi_LinkzZ 🌀
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> UMR GROUP BOTS </code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> colorkannadi_autofilterv2_bot </code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Deeks_04_8">DEEKS B GOWDAS 😎</a></i></b>
+<b>✔︎ Creator</b> : <b><i><a href="https://t.me/karthi_kr_0910">ᴅᴇᴠᴇʟᴏᴘᴇʀ 👨🏻‍💻</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>✔︎ Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>✔︎ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+
+<b>✔︎ Powered by</b> : <b><i>🌀 @colorkannadi_LinkzZ 🌀</i></b>
 
 """
