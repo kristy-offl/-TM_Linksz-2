@@ -146,7 +146,7 @@ async def callback_data(bot, update: CallbackQuery):
         
         reply_markup = InlineKeyboardMarkup(temp_results)
         
-        text=f"<i>Found</i> <code>{leng}</code>.                                   <i>Must Join Our Channel For Enjoy Our Service by clicking this <b>@colorkannadi_LinkzZ</b>.          ⬇️ YOUR RESULTS ARE HERE ⬇️:</i>  <code>{query}</code>"
+        text=f"<i>Found</i> <code>{leng}</code>.                                             <i>Must Join Our Channel For Enjoy Our Service by clicking this <b>@colorkannadi_LinkzZ</b>.                   ⬇️ YOUR RESULTS ARE HERE ⬇️:</i>  <code>{query}</code>"
             
         try:
             await update.message.edit(
