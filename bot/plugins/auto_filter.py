@@ -185,10 +185,7 @@ async def auto_filter (bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"Found {(len_results)}
-Powered by: 🌀 @colorkannadi_LinkzZ 🌀.
-⬇️ YOUR RESULTS ARE HERE ⬇️:
-<code>{query}</code>",
+                text=f"Found {(len_results)}Must Join Our Channel For Enjoy Our Service by clicking this @colorkannadi_LinkzZ.⬇️ YOUR RESULTS ARE HERE ⬇️:<code>{query}</code>",
 
                 reply_markup=reply_markup,
                 parse_mode="html",
