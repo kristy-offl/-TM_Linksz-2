@@ -5,18 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!
-<i>𝙸'𝚖 𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝙱𝚘𝚝.
+Am Just A Advance Auto Filter Bot....😉
+Works only for @TM_Linksz 🤪 its order from my boss @Its_Me_Malayali
 
-𝐈 𝐖𝐢𝐥𝐥 𝐒𝐞𝐚𝐫𝐜𝐡 𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐏𝐡𝐫𝐚𝐬𝐞 𝐖𝐨𝐫𝐝 𝐚𝐧𝐝 𝐆𝐢𝐯𝐞 𝐌𝐨𝐯𝐢𝐞𝐬 𝐚𝐬 𝐁𝐮𝐭𝐭𝐨𝐧 𝐋𝐢𝐧𝐤.
-
-ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ👨🏻‍💻: @karthi_kr_0910
-
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ: 🌀 @colorkannadi_LinkzZ 🌀</b>
-
-
-
-
-</i>"""    
+For More Details Click Help Button Below..
+@HiroshiBots</b>
+"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -48,17 +42,17 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ: 🌀 @colorkannadi_LinkzZ 🌀
+ <b>Powered By : 🌀@TM_Linksz</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> colorkannadi_autofilterv2_bot </code>
+    ABOUT_TEXT = """<b>🚀 Name</b> : <code> @TM_Discuss </code>
     
-<b>✔︎ Creator</b> : <b><i><a href="https://t.me/karthi_kr_0910">ᴅᴇᴠᴇʟᴏᴘᴇʀ 👨🏻‍💻</a></i></b>
+<b>📍 Creator</b> : <b><i><a href="https://t.me/Itz_Me_Malayali">Developer</a></i></b>
 
-<b>✔︎ Language</b> : <code>Python3</code>
+<b>🎭 Language</b> : <code>Python3</code>
 
-<b>✔︎ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>🖍 Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>✔︎ Powered by</b> : <b><i>🌀 @colorkannadi_LinkzZ 🌀</i></b>
+<b>🛡 Powered by</b> : <b><i>🌀@TM_Linksz</i></b>
 
 """
